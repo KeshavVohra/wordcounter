@@ -1,5 +1,5 @@
 # wordcounter
-A python word counter, counts words in a file
+A python word counter, outputs the total number of wards and the 10 most common word for the given file.
 
 
 ### Usage ###
