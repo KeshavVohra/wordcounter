@@ -1,4 +1,4 @@
-# word-counter
+# wordcounter
 A python word counter, counts words in a file
 
 
@@ -24,8 +24,7 @@ The above regular expression matches any sequence of non white space characters 
 
 Set of punctuations includes : `? ! ' " * : ; ( ) - \ /`
 
-Example
--------
+##### Example #####
     abc -> abc
     "abc" -> abc
     abc! -> abc
